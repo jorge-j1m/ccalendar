@@ -1,0 +1,4 @@
+# Build directory where object files and binaries are stored.
+build/
+myprogram
+run_tests
